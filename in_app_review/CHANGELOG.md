@@ -1,3 +1,7 @@
+## Unreleased
+
+- Support AGP 9 built-in Kotlin while retaining legacy KGP and Apple packaging support.
+
 # [2.0.12]
 
 - Fix an Android NullPointerException that sometimes occurred when apps were backgrounded.
